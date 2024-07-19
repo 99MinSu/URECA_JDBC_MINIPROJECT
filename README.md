@@ -45,4 +45,5 @@ CREATE TABLE Favorite (
 ![캡처](https://github.com/user-attachments/assets/f570c2ce-b1d3-4ea3-abd5-df2617c1d508)
 
 ## 개선사항
-수정하고 추가할 부분 많음
+다른 사람들 발표를 보니 StringBuilder 사용, 디자인 패턴 사용 등 다양한 방법이 있었다.    
+여러 개 관리를 똑같이만 만들었는데 하나를 잡고 다양한 방법을 써봐야겠다.
